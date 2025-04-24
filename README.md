@@ -16,4 +16,5 @@ This guide walks you through implementing **push notifications** in an Expo app 
 ## 📦 1. Install Required Packages
 
 ```bash
-npx expo install expo-notifications
+npm install expo-notifications
+npm install expo-device
